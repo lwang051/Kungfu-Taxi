@@ -3,7 +3,7 @@ This Project was done without using Github. The source code cannot be posted her
 
 This [**video clip**](https://www.youtube.com/watch?v=leAqjmC4-qs) gives a quick view of this game. Download the game from [**here** (iOS)](https://itunes.apple.com/us/app/kungfutaxi/id522037051?mt=8) and have fun!
 
-The diagrams posted here illustrate the basic code design of this game.
+The diagrams posted here illustrate the basic code design of this game:
 
 1. The [use case diagram](../master/Diagrams/Use%20Case%20Diagram.pdf) gives a breakdown of the functionality. Use cases are pruned for clearity.
 2. The [activity diagram](../master/Diagrams/Activity%20Diagram.pdf) illustrates the flow of the main activities within a game life cycle (level-wise).
