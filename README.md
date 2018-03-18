@@ -7,4 +7,4 @@ The diagrams posted here illustrate the basic code design of this game.
 
 1. The [use case diagram](../master/Diagrams/Use%20Case%20Diagram.pdf) gives a breakdown of the functionality. Use cases are pruned for simplicity.
 
-2. The [activity diagram](../master/Diagrams/Activity%20Diagram.pdf) illustrates the flow of the main activities within a life cycle (level-wise).
+2. The [activity diagram](../master/Diagrams/Activity%20Diagram.pdf) illustrates the flow of the main activities within a game life cycle (level-wise).
