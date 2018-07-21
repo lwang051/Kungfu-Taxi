@@ -26,7 +26,7 @@ The class diagram shows the design of the classes.
 The flow chart charts the selected procedures (four picked).
 ![alt text](../master/docs/Flow%20Chart.png)
 #### _Hit Area_
-This shows how object hit areas are defined.
+This shows how hit areas of objects are defined.
 ![alt text](../master/docs/Hit%20Area%20Schematic%20Diagram.png)
 #### _Collision Detection_
 After the hit areas are defined, collision detection is used to see if one object touches another. The character and the objects are then able to interact with each other in the game.
