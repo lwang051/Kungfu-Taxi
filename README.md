@@ -12,10 +12,10 @@ The source code cannot be posted here. The diagrams below illustrate the design.
 
 #### _Use Case Diagram_
 The use case diagram gives a breakdown of the functionality. Use cases are pruned for clearity.
-
+![alt text](../master/docs/Use%20Case%20Diagram.png)
 #### _Activity Diagram_
 The activity diagram illustrates the flow of the main activities within a game life cycle (level-wise).
-![alt text](../master/docs/Activity%20Diagram.png)
+
 #### _State Diagram_
 The state diagram depicts the states of the game character and the transitions between them. This is borrowed from the idea of finite state machine (FSM).
 ![alt text](../master/docs/State%20Diagram.png)
