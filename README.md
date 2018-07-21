@@ -20,12 +20,12 @@ The activity diagram illustrates the flow of the main activities within a game l
 The state diagram depicts the states of the game character and the transitions between them. This is borrowed from the idea of finite state machine (FSM).
 ![alt text](../master/docs/State%20Diagram.png)
 #### _Class Diagram_
-3. The class diagram shows the design of the classes.
+The class diagram shows the design of the classes.
 ![alt text](../master/docs/Class%20Diagram.png)
 #### _Flow Chart_
-5. The flow chart charts the selected procedures (four picked).
+The flow chart charts the selected procedures (four picked).
 ![alt text](../master/docs/Flow%20Chart.png)
-#### _Hit Area Schematic Diagram & Hit Areas of Objects_
-6. The hit area schematic diagram and the hit areas of the objects delineate the hit areas for both the character (red) and other objects(green).
-![alt text](../master/docs/Hit%20Area%20Schematic%20Diagram.png)
+#### _Hit Areas of Objects_
 ![alt text](../master/docs/Hit%20Areas%20of%20the%20objects.png)
+#### _Hit Area Schematic Diagram_
+![alt text](../master/docs/Hit%20Area%20Schematic%20Diagram.png)
