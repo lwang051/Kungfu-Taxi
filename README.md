@@ -25,7 +25,7 @@ The class diagram shows the design of the classes.
 #### _Flow Chart_
 The flow chart charts the selected procedures (four picked).
 ![alt text](../master/docs/Flow%20Chart.png)
-#### _Hit Areas of Objects_
-![alt text](../master/docs/Hit%20Areas%20of%20the%20objects.png)
-#### _Hit Area Schematic Diagram_
+#### _Hit Area_
 ![alt text](../master/docs/Hit%20Area%20Schematic%20Diagram.png)
+#### _Collision Detection_
+![alt text](../master/docs/Hit%20Areas%20of%20the%20objects.png)
