@@ -8,7 +8,7 @@ Download the game, and have fun!
 
 [![IMAGE ALT TEXT HERE](../master/docs/kungfu.png)](https://itunes.apple.com/us/app/kungfutaxi-endless/id597338050?mt=8)
 ### Diagrams
-This Project was done without using Github. The source code cannot be posted here. The diagrams below give a more in-depth view of the design.
+The source code cannot be posted here. The diagrams below illustrate the design.
 
 #### _Use Case Diagram_
 The use case diagram gives a breakdown of the functionality. Use cases are pruned for clearity.
