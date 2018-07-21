@@ -12,8 +12,6 @@ The diagrams below illustrate the basic code design of this game. This Project w
 
 1. The use case diagram gives a breakdown of the functionality. Use cases are pruned for clearity.
 
-![alt text](../master/docs/Activity%20Diagram.png)
-
 2. The [activity diagram](../master/docs/Activity%20Diagram.pdf) illustrates the flow of the main activities within a game life cycle (level-wise).
 3. The [class diagram](../master/docs/Class%20Diagram.pdf) shows the design of the classes.
 4. The [state diagram](../master/docs/State%20Diagram.pdf) depicts the states of the game character and the transitions between them. This is borrowed from the idea of finite state machine (FSM).
